@@ -1,0 +1,49 @@
+
+@media (max-width: 600px) {
+  form {
+    width: 100%;
+  }
+
+  body {
+    padding: 10px;
+  }
+}
+
+
+
+
+body {
+  font-family: Arial;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+form {
+  background-color: white;
+  padding: 20px;
+  width: 300px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px;
+  width: 100%;
+  background-color: green;
+  color: white;
+  border: none;
+}
+button:hover {
+  background-color: darkgreen;
+  cursor: pointer;
+}
+
+
+#message {
+  margin-top: 10px;
+  font-weight: bold;
+}
